@@ -2,8 +2,6 @@
 // ma per i multipli di 3 stampi "Fizz" al posto del numero e per i multipli di 5 stampi Buzz.
 // Per i numeri che sono sia multipli di 3 che di 5 stampi FizzBuzz.
 
-
-var totale = 0;
 var numero = 0;
 
 for (var i=0; i<20; i++) {
@@ -28,3 +26,4 @@ for (var i=0; i<20; i++) {
     } else {
          console.log(numero);
     }
+}
